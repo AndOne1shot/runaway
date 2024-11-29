@@ -29,3 +29,12 @@ runaway라는 웹 프로그램은 러닝을 취미로 하는 사람들이 자신
 알람은 마이페이지의 왼쪽 위 벨 아이콘 옆에 빨간색 점으로 알람이 왔다는 것을 알려주고 하단의 알람 게시판에서 누가 신청을 하고 취소 했는지 알 수 있습니다.
 이 글을 확인하면 빨간색 점은 사라지게 됩니다.
 
+### 반응형
+![KakaoTalk_20241129_090754361](https://github.com/user-attachments/assets/bce5d65f-9749-42cc-a2f4-0a0028f8afbe)
+![KakaoTalk_20241129_090800029](https://github.com/user-attachments/assets/bed0881a-9ec1-4e8a-ad6e-9b0db183314e)
+![KakaoTalk_20241129_090805577](https://github.com/user-attachments/assets/8f2d9df7-8376-4c6d-94a7-aa3577ab5aea)
+![KakaoTalk_20241129_090811185](https://github.com/user-attachments/assets/6909047f-01fb-45d6-bae0-283c18697ff8)
+
+
+
+
