@@ -39,9 +39,11 @@ runaway라는 웹 프로그램은 러닝을 취미로 하는 사람들이 자신
 
 ### 반응형
 <img src="https://github.com/user-attachments/assets/bce5d65f-9749-42cc-a2f4-0a0028f8afbe" width="200px" height="400px">
-![KakaoTalk_20241129_090800029](https://github.com/user-attachments/assets/bed0881a-9ec1-4e8a-ad6e-9b0db183314e)
-![KakaoTalk_20241129_090805577](https://github.com/user-attachments/assets/8f2d9df7-8376-4c6d-94a7-aa3577ab5aea)
-![KakaoTalk_20241129_090811185](https://github.com/user-attachments/assets/6909047f-01fb-45d6-bae0-283c18697ff8)
+<img src="https://github.com/user-attachments/assets/bed0881a-9ec1-4e8a-ad6e-9b0db183314e" width="200px" height="400px">
+<img src="https://github.com/user-attachments/assets/8f2d9df7-8376-4c6d-94a7-aa3577ab5aea" width="200px" height="400px">
+<img src="https://github.com/user-attachments/assets/6909047f-01fb-45d6-bae0-283c18697ff8" width="200px" height="400px">
+
+그리드, 플렉스 컨터이너를 활용해 모바일 화면에도 이용할 수 있게 구현했습니다.
 
 
 
